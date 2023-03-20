@@ -7,7 +7,7 @@ Please visit
 ```sh
 HaRry-qaq.github.io
 ```
-to listen to different kinds of experiment demos.(coming soon)
+to listen to different kinds of experiment demos.
 
 ## Set up development environment
 
