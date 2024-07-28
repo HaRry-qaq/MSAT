@@ -1,4 +1,6 @@
-# MSAT
+# MSAT (INTERSPEECH 2023)
+## Paper link
+[A Multi-Scale Attentive Transformer for Multi-Instrument Symbolic Music Generation](https://www.isca-archive.org/interspeech_2023/wei23c_interspeech.html)
 
 ## Demo preview
 
